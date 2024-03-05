@@ -1,9 +1,15 @@
+*{
+    box-sizing: border-box;
+}
 body{
-    background-color:rgba(4, 32, 94, 0.377) ;
+    background-color:rgba(37, 192, 6, 0.754) ;
 }
 h1{
     text-align: center;
     color: #fff;
     text-transform: capitalize;
     text-decoration: underline yellowgreen;
+}
+img{
+    border: 10px solid #000;
 }
